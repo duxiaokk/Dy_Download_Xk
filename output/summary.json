@@ -1,0 +1,11 @@
+{
+  "total_links": 0,
+  "new_links_added_this_run": 0,
+  "total_douyin": 0,
+  "total_non_douyin": 0,
+  "batch_size": 20,
+  "total_batches": 0,
+  "processed_files_this_run": [],
+  "skipped_files_this_run": [],
+  "failed_files_this_run": []
+}
